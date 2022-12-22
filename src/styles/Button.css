@@ -1,0 +1,32 @@
+.btn {
+    width: 5rem;
+    height: 1.7rem;
+    margin: 0 0.2rem;
+    border: none;
+    border-radius: 5px;
+    color : #fff;
+    cursor : pointer;
+}
+.btn:focus {
+    outline: none;
+}
+.btn:hover {
+    background-color: #80e477;
+    color: rgb(83, 83, 83);
+}
+.btn-success {
+    background-color: #57AE4F;
+}
+.btn-warning {
+    background-color: #FB2D68;
+}
+.btn-primary {
+    background-color: #4fae9e;
+}
+.btn-primary:hover {
+    background-color: #78ecd9;
+    color: whitesmoke;
+}
+.btn-warning:hover {
+    background-color : #ff7ba0
+}
